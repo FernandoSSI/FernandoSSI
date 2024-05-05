@@ -4,9 +4,10 @@ I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web F
 
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FernandoSSI&show_icons=true&&theme=cobalt">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=FernandoSSI&layout=compact&theme=cobalt">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FernandoSSI&show_icons=true&&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=FernandoSSI&layout=compact&theme=dracula">
 </div>
+
 
 🧰 Toolbox
   <ul>
