@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web Front-End). I'm currently learning about optimization algorithms and machine learning.
+I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web Front-End). I'm currently learning about optimization.
 
 
 <div>
