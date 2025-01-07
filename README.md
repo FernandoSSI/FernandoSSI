@@ -23,4 +23,5 @@ I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web F
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+      <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-3.svg'>
   </div>
