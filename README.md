@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web Front-End). I'm currently learning about optimization.
+I'm a Full-Stack Web Developer. I'm currently learning about optimization and LLM agents :D.
 
 
 <div>
@@ -11,16 +11,17 @@ I'm a Full-Stack Developer focusing on Spring Boot (Back-End) and ReactJS (Web F
 
 🧰 Toolbox
   <ul>
-      <li>Front-End with ReactJS</li>
-      <li>Back-End with Spring</li>
-      <li>Database services with SQL and NoSQL</li>
+      <li>Front-End: ReactJS, Vue, Tailwind</li>
+      <li>Back-End: Spring, FastAPI</li>
+      <li>Databases: MongoDB, MySql, PostgreSQL, SqLite</li>
+      <li>Agentic AI Frameworks: LangChain, LangGraph, FastMcp</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+      <img height='50em' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
+    <img height='50em' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png"> 
+    <img height='50em' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
   </div>
