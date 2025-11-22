@@ -25,6 +25,7 @@ Git push and pray
 ## Current Works
  * I'm currently working at HUG, creating conversational agents in AI.
  * Improving my skills in AI agents and software engineering.
+ * [My resume](https://drive.google.com/file/d/1y4hCoktxbujdAU_cqJCH82IViGXz42jZ/view?usp=sharing)
  
 
  
