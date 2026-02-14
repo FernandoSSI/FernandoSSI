@@ -2,17 +2,10 @@
 
 <h1>Welcome to my github 🔥💭</h1> 
 
-<img src = 'https://media1.tenor.com/m/j9rUo2jsSbEAAAAC/do-not-run-python-python-computer.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fersantoss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fersantoss-dev/)](https://www.linkedin.com/in/fersantoss-dev/) [![Gmail Badge](https://img.shields.io/badge/-fernandosi2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandosi2005@gmail.com)](mailto:fernandosi2005@gmail.com)
 
-Git push and pray
 
-
-
-![Fernando's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSSI&layout=compact&&theme=catppuccin_mocha)
-
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=FernandoSSI&show_icons=true&hide=[%22issues%22]&&theme=catppuccin_mocha)
 
 ## Programming Languages
 <img src = 'https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white' width='90'/> <img src = 'https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white' width='117'/> <img src = 'https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black' height='26'/>  <img src = 'https://camo.githubusercontent.com/c40c14f1c1bba5b3aac3281799882be1612b4c217d0340623f26f071739aac84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465' width='72'/> <img src='https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white' width='65'/> 
