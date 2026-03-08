@@ -16,4 +16,4 @@ I develop conversational AI agents and scalable software solutions, focusing on 
 * Scaling AI-driven workflows
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/fersantoss-dev/) / [Email](mailto:fernandosi2005@gmail.com) / [Resume](https://drive.google.com/file/d/1y4hCoktxbujdAU_cqJCH82IViGXz42jZ/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/fersantoss-dev/) / [Email](mailto:fernandosi2005@gmail.com)
